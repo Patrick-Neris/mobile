@@ -1,22 +1,36 @@
 {
-    "produtos": [
-        {
-            "imagePath": "https://i.zst.com.br/thumbs/12/23/1b/-71418388.jpg",
-            "nome": "RTX 2060",
-            "preco": 1200.9,
-            "id": "1"
-        },
-        {
-            "imagePath": "https://images.kabum.com.br/produtos/fotos/150657/placa-de-video-galax-geforce-rtx-3060-1-click-oc-15-gbps-12gb-gddr6-ray-tracing-dlss-36nol7md1voc_1614253646_original.jpg",
-            "nome": "RTX 3060 12GB",
-            "preco": 1999.9,
-            "id": "2"
-        },
-        {
-            "imagePath": "https://images.kabum.com.br/produtos/fotos/213718/placa-de-video-asus-dual-nvidia-geforce-rtx-3060-ti-8g-mini-v2-rgb-8gb-gddr6-lhr-dlss-ray-tracing-90yv0ft3-m0na00_1633723261_g.jpg",
-            "nome": "RTX 3060 ti",
-            "preco": 2690.90,
-            "id": "3"
-        }
-    ]
+  "produtos": [
+    {
+      "imagePath": "https://i.zst.com.br/thumbs/12/23/1b/-71418388.jpg",
+      "nome": "RTX 2060",
+      "preco": 1200.9,
+      "id": "1"
+    },
+    {
+      "imagePath": "https://images.kabum.com.br/produtos/fotos/150657/placa-de-video-galax-geforce-rtx-3060-1-click-oc-15-gbps-12gb-gddr6-ray-tracing-dlss-36nol7md1voc_1614253646_original.jpg",
+      "nome": "RTX 3060 12GB",
+      "preco": 1999.9,
+      "id": "2"
+    },
+    {
+      "imagePath": "https://images.kabum.com.br/produtos/fotos/213718/placa-de-video-asus-dual-nvidia-geforce-rtx-3060-ti-8g-mini-v2-rgb-8gb-gddr6-lhr-dlss-ray-tracing-90yv0ft3-m0na00_1633723261_g.jpg",
+      "nome": "RTX 3060 ti",
+      "preco": 2690.9,
+      "id": "3"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Patrick Neris",
+      "email": "patrick@gmail.com",
+      "senha": "123"
+    },
+    {
+      "id": 2,
+      "nome": "Blue Pen",
+      "email": "caneta@azul.com",
+      "senha": "321"
+    }
+  ]
 }
